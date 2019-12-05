@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="BaseCamp 3.1.2" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2011-02-14T11:21:02Z</time>
+    <bounds maxlat="56.796904848888516" maxlon="12.770193" minlat="47.321770" minlon="-5.00384883955121"/>
+  </metadata>
+
+  <wpt lat="46.021133316680789" lon="7.798483315855265">
+    <time>2011-02-14T11:09:02Z</time>
+    <name>Brienzer Rothorn</name>
+    <cmt>BirdsEye Satellite Imagery is a subscription service to download high-resolution imagery to your Garmin handheld.  For more information, visit www.garmin.com/BirdsEye.</cmt>
+    <desc>BirdsEye Satellite Imagery is a subscription service to download high-resolution imagery to your Garmin handheld.  For more information, visit www.garmin.com/BirdsEye.</desc>
+    <sym>Summit</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="45.916100023314357" lon="6.880433326587081">
+    <time>2011-02-14T10:59:43Z</time>
+    <name>Mount Blanc</name>
+    <cmt>BirdsEye Satellite Imagery is a subscription service to download high-resolution imagery to your Garmin handheld.  For more information, visit www.garmin.com/BirdsEye.</cmt>
+    <desc>BirdsEye Satellite Imagery is a subscription service to download high-resolution imagery to your Garmin handheld.  For more information, visit www.garmin.com/BirdsEye.</desc>
+    <sym>Summit</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="53.068558210507035" lon="-4.076226800680161">
+    <time>2011-02-14T11:19:00Z</time>
+    <name>Snowdon</name>
+    <cmt>BirdsEye Satellite Imagery is a subscription service to download high-resolution imagery to your Garmin handheld.  For more information, visit www.garmin.com/BirdsEye.</cmt>
+    <desc>BirdsEye Satellite Imagery is a subscription service to download high-resolution imagery to your Garmin handheld.  For more information, visit www.garmin.com/BirdsEye.</desc>
+    <sym>Summit</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+  
+  <wpt lat="51.999460" lon="-9.729994">
+    <time>2011-03-08T17:21:19Z</time>
+    <name>Carrauntoohil</name>
+    <cmt>BirdsEye Satellite Imagery is a subscription service to download high-resolution imagery to your Garmin handheld.  For more information, visit www.garmin.com/BirdsEye.</cmt>
+    <desc>BirdsEye Satellite Imagery is a subscription service to download high-resolution imagery to your Garmin handheld.  For more information, visit www.garmin.com/BirdsEye.</desc>
+    <sym>Summit</sym>
+	<extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="47.321770" lon="12.770193">
+    <time>2011-03-08T17:23:32Z</time>
+    <name>Zell Am See</name>
+    <cmt>BirdsEye Satellite Imagery is a subscription service to download high-resolution imagery to your Garmin handheld.  For more information, visit www.garmin.com/BirdsEye.</cmt>
+    <desc>BirdsEye Satellite Imagery is a subscription service to download high-resolution imagery to your Garmin handheld.  For more information, visit www.garmin.com/BirdsEye.</desc>
+   <sym>Waypoint</sym>
+    <extensions>
+      <gpxx:WaypointExtension xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3">
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+</gpx>

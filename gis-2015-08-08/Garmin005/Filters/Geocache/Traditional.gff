@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<GeocacheFilter>
+    <Settings>
+<Version>1</Version>
+        <Types>
+            <Type>0</Type>
+        </Types>
+        <Sizes>
+            <Size>0</Size>
+            <Size>1</Size>
+            <Size>2</Size>
+            <Size>3</Size>
+            <Size>4</Size>
+            <Size>5</Size>
+            <Size>6</Size>
+            <Size>7</Size>
+        </Sizes>
+        <SizeMin>1.0</SizeMin>
+        <SizeMax>5.0</SizeMax>
+        <DifficultyMin>1.0</DifficultyMin>
+        <DifficultyMax>5.0</DifficultyMax>
+        <TerrainMin>1.0</TerrainMin>
+        <TerrainMax>5.0</TerrainMax>
+        <AwesomeMin>1.0</AwesomeMin>
+        <AwesomeMax>5.0</AwesomeMax>
+        <Statuses>
+            <Status>0</Status>
+            <Status>1</Status>
+        </Statuses>
+    </Settings>
+</GeocacheFilter>
